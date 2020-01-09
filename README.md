@@ -14,6 +14,7 @@ Datasets were Adult and Wine data sets from UCI machine learning repository.
 * UnSupervisedLearning_abalone.py
 * UnSupervisedLearning_white_wine_quality.py
 ## Results Obtained
+Refer Analysis.pdf for more information on the results obtained. 
 ![Picture1](/results/Picture1.png)
 ![Picture2](/results/Picture2.png)
 ![Picture3](/results/Picture3.png)
@@ -25,4 +26,4 @@ Datasets were Adult and Wine data sets from UCI machine learning repository.
 ![Picture9](/results/Picture9.png)
 ![Picture10](/results/Picture10.png)
 ![Picture11](/results/Picture11.png)
-Refer Analysis.pdf for more information on the results obtained. 
+
