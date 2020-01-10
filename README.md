@@ -1,4 +1,4 @@
-# Supervised Learning
+# UnSupervised Learning
 ## Overview
 This repository runs clustering and dimensionality reduction techniques. The 2 clustering algorithms that run are K-means and Expectation Maximization. The 4 dimensionality reduction algorithms that run are Principal Component Analysis (PCA), Independent Component Analysis (ICA), Random Projection (RP) and Recursive Feature Elimination (RFE). This repository runs the following and captures performance:
 1.	Runs the 2 clustering Algorithms
